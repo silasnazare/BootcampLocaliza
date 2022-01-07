@@ -5,7 +5,7 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primeiro", "Primeiro\Primeiro.csproj", "{F82E8019-93E6-4BBD-8E8C-B4FEF394A923}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeiroTests", "PrimeiroTests\PrimeiroTests.csproj", "{811D896F-71AB-4C5F-A93D-0BD30807A0F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeiroTests", "PrimeiroTests\PrimeiroTests.csproj", "{811D896F-71AB-4C5F-A93D-0BD30807A0F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

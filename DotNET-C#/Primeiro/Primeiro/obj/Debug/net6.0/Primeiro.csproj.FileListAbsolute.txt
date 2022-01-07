@@ -28,6 +28,7 @@ C:\Users\Agenda\OneDrive - Agenda Assessoria Planejamento e Informática Ltda\Do
 C:\Users\Agenda\OneDrive - Agenda Assessoria Planejamento e Informática Ltda\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
 C:\Users\Agenda\OneDrive - Agenda Assessoria Planejamento e Informática Ltda\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
 C:\Users\Agenda\OneDrive - Agenda Assessoria Planejamento e Informática Ltda\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+<<<<<<< HEAD
 C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
 C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
 C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
@@ -43,3 +44,5 @@ C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\
 C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll
 C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
 C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+=======
+>>>>>>> 96f83d2712ee15c3e5c353f9d8b716b0a882c1f2
