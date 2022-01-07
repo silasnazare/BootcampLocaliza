@@ -1,0 +1,14 @@
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\bin\Debug\net6.0\ClassesInterfacesEnums.exe
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\bin\Debug\net6.0\ClassesInterfacesEnums.deps.json
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\bin\Debug\net6.0\ClassesInterfacesEnums.runtimeconfig.json
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\bin\Debug\net6.0\ClassesInterfacesEnums.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\bin\Debug\net6.0\ref\ClassesInterfacesEnums.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\bin\Debug\net6.0\ClassesInterfacesEnums.pdb
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ClassesInterfacesEnums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ClassesInterfacesEnums.AssemblyInfoInputs.cache
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ClassesInterfacesEnums.AssemblyInfo.cs
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ClassesInterfacesEnums.csproj.CoreCompileInputs.cache
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ClassesInterfacesEnums.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ref\ClassesInterfacesEnums.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ClassesInterfacesEnums.pdb
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Classes\obj\Debug\net6.0\ClassesInterfacesEnums.genruntimeconfig.cache
