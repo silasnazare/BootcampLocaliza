@@ -5,7 +5,22 @@
       "ProjectGuid": "f82e8019-93e6-4bbd-8e8c-b4fef394a923",
       "DisplayName": "Primeiro",
       "ColorIndex": 0
+    },
+    "38865207-8dbb-4278-9825-376de7a94457": {
+      "ProjectGuid": "38865207-8dbb-4278-9825-376de7a94457",
+      "DisplayName": "Calculo",
+      "ColorIndex": 1
+    },
+    "811d896f-71ab-4c5f-a93d-0bd30807a0f2": {
+      "ProjectGuid": "811d896f-71ab-4c5f-a93d-0bd30807a0f2",
+      "DisplayName": "PrimeiroTests",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
