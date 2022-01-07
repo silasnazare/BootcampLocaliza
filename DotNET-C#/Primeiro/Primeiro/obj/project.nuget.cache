@@ -4,12 +4,5 @@
   "success": true,
   "projectFilePath": "C:\\Users\\silas\\OneDrive\\Documentos\\BootcampLocaliza\\DotNET-C#\\Primeiro\\Primeiro\\Primeiro.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Users\\silas\\OneDrive\\Documentos\\BootcampLocaliza\\DotNET-C#\\Primeiro\\Primeiro\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
