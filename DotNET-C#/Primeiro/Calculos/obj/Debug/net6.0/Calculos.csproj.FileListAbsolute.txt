@@ -1,0 +1,15 @@
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\bin\Debug\net6.0\Calculos.exe
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\bin\Debug\net6.0\Calculos.deps.json
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\bin\Debug\net6.0\Calculos.runtimeconfig.json
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\bin\Debug\net6.0\Calculos.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\bin\Debug\net6.0\ref\Calculos.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\bin\Debug\net6.0\Calculos.pdb
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.csproj.AssemblyReference.cache
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.AssemblyInfo.cs
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\ref\Calculos.dll
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.pdb
+C:\Users\silas\OneDrive\Documentos\BootcampLocaliza\DotNET-C#\Primeiro\Calculos\obj\Debug\net6.0\Calculos.genruntimeconfig.cache
